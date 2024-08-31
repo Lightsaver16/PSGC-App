@@ -82,3 +82,5 @@ To run the the FastAPI app container and the Postgresql instance container:
 ```
 docker-compose up --build -d
 ```
+### Postman API Documentation
+To view the postman API Documentation, kindly visit this [link.](https://tinyurl.com/3h9z7fu7)
