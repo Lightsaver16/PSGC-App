@@ -42,7 +42,7 @@ Fields:
 │   ├── __init__.py
 │   ├── auth.py  
 │   ├── exception.py  # global exceptions
-│   ├── main.py  # global module e.g. pagination
+│   ├── main.py 
 │   ├── models.py  # global models
 │   └── pagination.py # settings for pagination
 ├── .dockerignore
