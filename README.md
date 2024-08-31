@@ -24,7 +24,7 @@ Fields:
 ```
 ├── app
 │   ├── db
-│   │   ├── core.py
+│   │   ├── core.py # For database-related settings
 │   ├── provinces
 │   │   ├── models.py
 │   │   ├── router.py
